@@ -20,11 +20,11 @@ Just because you've learnt a new design pattern, don't treat it like the golden 
 
 <table width="100%">
   <tr>
-    <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f464.png" width="120"/></td>
-    <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f3ed.png" width="120"/></td>
-    <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f3d7.png" width="120"/></td>
-    <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f528.png" width="120"/></td>
-    <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f9ec.png" width="120"/></td>
+    <td align="center" width="20%"><a href="#"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f464.png" width="120"/></a></td>
+    <td align="center" width="20%"><a href="#"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f3ed.png" width="120"/></a></td>
+    <td align="center" width="20%"><a href="#"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f3d7.png" width="120"/></a></td>
+    <td align="center" width="20%"><a href="#"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f528.png" width="120"/></a></td>
+    <td align="center" width="20%"><a href="#"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f9ec.png" width="120"/></a></td>
   </tr>
   <tr>
     <td align="center" width="20%">Singleton</td>
@@ -39,11 +39,11 @@ Just because you've learnt a new design pattern, don't treat it like the golden 
 
 <table width="100%">
   <tr>
-    <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f50c.png" width="120"/></td>
-    <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f309.png" width="120"/></td>
-    <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f332.png" width="120"/></td>
-    <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f381.png" width="120"/></td>
-    <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f3db.png" width="120"/></td>
+    <td align="center" width="20%"><a href="#"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f50c.png" width="120"/></a></td>
+    <td align="center" width="20%"><a href="#"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f309.png" width="120"/></a></td>
+    <td align="center" width="20%"><a href="#"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f332.png" width="120"/></a></td>
+    <td align="center" width="20%"><a href="#"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f381.png" width="120"/></a></td>
+    <td align="center" width="20%"><a href="#"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f3db.png" width="120"/></a></td>
   </tr>
   <tr>
     <td align="center" width="20%">Adapter</td>
@@ -53,8 +53,8 @@ Just because you've learnt a new design pattern, don't treat it like the golden 
     <td align="center" width="20%">Facade</td>
   </tr>
   <tr>
-    <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1fab6.png" width="120"/></td>
-    <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1fa9e.png" width="120"/></td>
+    <td align="center" width="20%"><a href="#"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1fab6.png" width="120"/></a></td>
+    <td align="center" width="20%"><a href="#"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1fa9e.png" width="120"/></a></td>
     <td width="20%"></td>
     <td width="20%"></td>
     <td width="20%"></td>
@@ -72,11 +72,11 @@ Just because you've learnt a new design pattern, don't treat it like the golden 
 
 <table width="100%">
   <tr>
-    <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/26d3.png" width="120"/></td>
-    <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4dc.png" width="120"/></td>
-    <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f501.png" width="120"/></td>
-    <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4e1.png" width="120"/></td>
-    <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4be.png" width="120"/></td>
+    <td align="center" width="20%"><a href="#"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/26d3.png" width="120"/></a></td>
+    <td align="center" width="20%"><a href="#"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4dc.png" width="120"/></a></td>
+    <td align="center" width="20%"><a href="#"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f501.png" width="120"/></a></td>
+    <td align="center" width="20%"><a href="#"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4e1.png" width="120"/></a></td>
+    <td align="center" width="20%"><a href="#"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4be.png" width="120"/></a></td>
   </tr>
   <tr>
     <td align="center" width="20%">Chain of<br>Responsibility</td>
@@ -86,11 +86,11 @@ Just because you've learnt a new design pattern, don't treat it like the golden 
     <td align="center" width="20%">Memento</td>
   </tr>
   <tr>
-    <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f441.png" width="120"/></td>
-    <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f500.png" width="120"/></td>
-    <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f3af.png" width="120"/></td>
-    <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4cb.png" width="120"/></td>
-    <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4a1.png" width="120"/></td>
+    <td align="center" width="20%"><a href="#"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f441.png" width="120"/></a></td>
+    <td align="center" width="20%"><a href="#"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f500.png" width="120"/></a></td>
+    <td align="center" width="20%"><a href="#"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f3af.png" width="120"/></a></td>
+    <td align="center" width="20%"><a href="#"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4cb.png" width="120"/></a></td>
+    <td align="center" width="20%"><a href="#"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4a1.png" width="120"/></a></td>
   </tr>
   <tr>
     <td align="center" width="20%">Observer</td>
@@ -100,7 +100,7 @@ Just because you've learnt a new design pattern, don't treat it like the golden 
     <td align="center" width="20%">Interpreter</td>
   </tr>
   <tr>
-    <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f6b6.png" width="120"/></td>
+    <td align="center" width="20%"><a href="#"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f6b6.png" width="120"/></a></td>
     <td width="20%"></td>
     <td width="20%"></td>
     <td width="20%"></td>
