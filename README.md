@@ -18,100 +18,100 @@ Just because you've learnt a new design pattern, don't treat it like the golden 
 
 ### Creational Patterns
 
-<table>
+<table width="100%">
   <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f464.png" width="120"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f3ed.png" width="120"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f3d7.png" width="120"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f528.png" width="120"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f9ec.png" width="120"/></td>
+    <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f464.png" width="120"/></td>
+    <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f3ed.png" width="120"/></td>
+    <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f3d7.png" width="120"/></td>
+    <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f528.png" width="120"/></td>
+    <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f9ec.png" width="120"/></td>
   </tr>
   <tr>
-    <td align="center">Singleton</td>
-    <td align="center">Factory Method</td>
-    <td align="center">Abstract Factory</td>
-    <td align="center">Builder</td>
-    <td align="center">Prototype</td>
+    <td align="center" width="20%">Singleton</td>
+    <td align="center" width="20%">Factory Method</td>
+    <td align="center" width="20%">Abstract Factory</td>
+    <td align="center" width="20%">Builder</td>
+    <td align="center" width="20%">Prototype</td>
   </tr>
 </table>
 
 ### Structural Patterns
 
-<table>
+<table width="100%">
   <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f50c.png" width="120"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f309.png" width="120"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f332.png" width="120"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f381.png" width="120"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f3db.png" width="120"/></td>
+    <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f50c.png" width="120"/></td>
+    <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f309.png" width="120"/></td>
+    <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f332.png" width="120"/></td>
+    <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f381.png" width="120"/></td>
+    <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f3db.png" width="120"/></td>
   </tr>
   <tr>
-    <td align="center">Adapter</td>
-    <td align="center">Bridge</td>
-    <td align="center">Composite</td>
-    <td align="center">Decorator</td>
-    <td align="center">Facade</td>
+    <td align="center" width="20%">Adapter</td>
+    <td align="center" width="20%">Bridge</td>
+    <td align="center" width="20%">Composite</td>
+    <td align="center" width="20%">Decorator</td>
+    <td align="center" width="20%">Facade</td>
   </tr>
   <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1fab6.png" width="120"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1fa9e.png" width="120"/></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1fab6.png" width="120"/></td>
+    <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1fa9e.png" width="120"/></td>
+    <td width="20%"></td>
+    <td width="20%"></td>
+    <td width="20%"></td>
   </tr>
   <tr>
-    <td align="center">Flyweight</td>
-    <td align="center">Proxy</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td align="center" width="20%">Flyweight</td>
+    <td align="center" width="20%">Proxy</td>
+    <td width="20%"></td>
+    <td width="20%"></td>
+    <td width="20%"></td>
   </tr>
 </table>
 
 ### Behavioural Patterns
 
-<table>
+<table width="100%">
   <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/26d3.png" width="120"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4dc.png" width="120"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f501.png" width="120"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4e1.png" width="120"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4be.png" width="120"/></td>
+    <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/26d3.png" width="120"/></td>
+    <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4dc.png" width="120"/></td>
+    <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f501.png" width="120"/></td>
+    <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4e1.png" width="120"/></td>
+    <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4be.png" width="120"/></td>
   </tr>
   <tr>
-    <td align="center">Chain of Responsibility</td>
-    <td align="center">Command</td>
-    <td align="center">Iterator</td>
-    <td align="center">Mediator</td>
-    <td align="center">Memento</td>
+    <td align="center" width="20%">Chain of Responsibility</td>
+    <td align="center" width="20%">Command</td>
+    <td align="center" width="20%">Iterator</td>
+    <td align="center" width="20%">Mediator</td>
+    <td align="center" width="20%">Memento</td>
   </tr>
   <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f441.png" width="120"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f500.png" width="120"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f3af.png" width="120"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4cb.png" width="120"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4a1.png" width="120"/></td>
+    <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f441.png" width="120"/></td>
+    <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f500.png" width="120"/></td>
+    <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f3af.png" width="120"/></td>
+    <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4cb.png" width="120"/></td>
+    <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4a1.png" width="120"/></td>
   </tr>
   <tr>
-    <td align="center">Observer</td>
-    <td align="center">State</td>
-    <td align="center">Strategy</td>
-    <td align="center">Template Method</td>
-    <td align="center">Interpreter</td>
+    <td align="center" width="20%">Observer</td>
+    <td align="center" width="20%">State</td>
+    <td align="center" width="20%">Strategy</td>
+    <td align="center" width="20%">Template Method</td>
+    <td align="center" width="20%">Interpreter</td>
   </tr>
   <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f6b6.png" width="120"/></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f6b6.png" width="120"/></td>
+    <td width="20%"></td>
+    <td width="20%"></td>
+    <td width="20%"></td>
+    <td width="20%"></td>
   </tr>
   <tr>
-    <td align="center">Visitor</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td align="center" width="20%">Visitor</td>
+    <td width="20%"></td>
+    <td width="20%"></td>
+    <td width="20%"></td>
+    <td width="20%"></td>
   </tr>
 </table>
 
