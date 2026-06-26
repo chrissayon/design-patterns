@@ -79,7 +79,7 @@ Just because you've learnt a new design pattern, don't treat it like the golden 
     <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4be.png" width="120"/></td>
   </tr>
   <tr>
-    <td align="center" width="20%">Chain of Responsibility</td>
+    <td align="center" width="20%">Chain of<br>Responsibility</td>
     <td align="center" width="20%">Command</td>
     <td align="center" width="20%">Iterator</td>
     <td align="center" width="20%">Mediator</td>
@@ -96,7 +96,7 @@ Just because you've learnt a new design pattern, don't treat it like the golden 
     <td align="center" width="20%">Observer</td>
     <td align="center" width="20%">State</td>
     <td align="center" width="20%">Strategy</td>
-    <td align="center" width="20%">Template Method</td>
+    <td align="center" width="20%">Template<br>Method</td>
     <td align="center" width="20%">Interpreter</td>
   </tr>
   <tr>
