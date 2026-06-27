@@ -21,14 +21,14 @@ Just because you've learnt a new design pattern, don't treat it like the golden 
 <table width="100%">
   <tr>
     <td align="center" width="20%"><a href="singleton/README.md"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f464.png" width="120"/></td>
-    <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f3ed.png" width="120"/></td>
+    <td align="center" width="20%"><a href="factory-method/README.md"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f3ed.png" width="120"/></a></td>
     <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f3d7.png" width="120"/></td>
     <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f528.png" width="120"/></td>
     <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f9ec.png" width="120"/></td>
   </tr>
   <tr>
     <td align="center" width="20%"><a href="singleton/README.md">Singleton</a></td>
-    <td align="center" width="20%">🔒 Factory Method</td>
+    <td align="center" width="20%"><a href="factory-method/README.md">Factory Method</a></td>
     <td align="center" width="20%">🔒 Abstract Factory</td>
     <td align="center" width="20%">🔒 Builder</td>
     <td align="center" width="20%">🔒 Prototype</td>
